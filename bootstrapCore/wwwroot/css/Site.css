@@ -1,0 +1,24 @@
+﻿body {
+    padding-bottom: 3rem;
+    color:#5a5a5a;
+}
+
+.feature-divider {
+
+margin:5rem 0;
+}
+
+.feature-heading {
+margin:10px;
+
+}
+
+.carousel-item img {
+position:absolute;
+top:0;
+left:0;
+min-width:100%;
+height:32rem;
+
+}
+
